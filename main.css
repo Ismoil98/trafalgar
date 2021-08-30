@@ -1,0 +1,184 @@
+
+/* Virtual healthcare for you */
+
+.div1{
+  width: 100%;
+	height: auto;
+	margin-left: 20px;
+  margin-top: 20px;
+}
+}
+
+.div2{
+
+
+      width: 100%;
+      max-width: 1280px;
+      height: auto;
+      margin-top: 100px;
+      margin-bottom: 97px;
+}
+
+.ul_1{
+  text-decoration: none;
+  list-style: none;
+  width: 100%;
+	height: auto;
+	display: flex;
+	padding: 0;
+}
+
+.li_1{
+  margin-right: 5px;
+  display: inline-block;
+  list-style: none;
+}
+
+
+.manzil{
+  text-decoration: none;
+  font-size: 20px;
+  color: 1f1534;
+  margin-left: 20px;
+  margin-right: 5px;
+  font-family: "Mulish", san-serif;
+}
+
+.sarlavha_1{
+  font-size: 48px;
+}
+
+.text_1{
+  font-size: 21px;
+}
+
+.button_1{
+	text-decoration: none;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 60px;
+	color: #fff;
+	border-radius: 55px;
+	background-color: #458FF6; 
+	padding: 20px 45px;
+}
+
+.images{
+  padding-left: 90px;
+  width: 693px;
+  height: 598px;
+}
+
+/* Our services */
+
+
+.div3{
+
+  padding: 10px 15px;
+  width: 100%;
+  max-width: 1280px;
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.Sarlavha{
+  text-align: center;
+  font-style: normal;
+  line-height: 56px;
+  size: 36px;
+  color: black;
+}
+
+text1{
+  width: 300px;
+  size: 18px;
+  font-style: normal;
+  line-height: 30px;
+}
+.ostki_chiziq{
+  width: 40px;
+  font-style: unset;
+  color: black;
+  border-radius: 5px;
+}
+.li_2{
+display: inline-block;
+vertical-align: top;
+}
+
+pi{
+  width: 300px;
+  size: 16px; 
+  line-height: 28px;
+}
+
+div{
+  border-color: black;
+  margin-top: 5px;
+}
+
+img{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.manzil{
+  border-color: #458FF6; 
+  font-style: normal;
+	font-family: Mulish;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 60px;
+	color: #458FF6;
+	border-radius: 55px;
+	background-color: white; 
+	padding: 20px 45px;
+}
+
+/* Leading healthcare providers */
+
+.div4{
+
+  padding: 10px 15px;
+  width: 100%;
+  max-width: 1280px;
+  height: auto;
+  margin-top: 100px;
+  margin-bottom: 97px;
+}
+
+.li4_1{
+  padding: 20px 45px;
+}
+
+.li4_2{
+  padding: 20px 45px;
+}
+
+.button_2{
+	text-decoration: none;
+	font-family: Mulish;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 60px;
+	color: #458FF6;
+	border-radius: 55px;
+  border-color: #458FF6;
+  border-style: hidden;
+	background-color:white; 
+	padding: 20px 45px;
+  border-style: groove;
+}
+
+
+/* Download our mobile apps */
+
+/* ##### */
+
+/* What our customer are saying */
+
+
